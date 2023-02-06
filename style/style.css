@@ -125,3 +125,8 @@ section#login{
     label{
         display: none;
     }
+    
+
+    div.writer > i{
+        width: 40px;
+    }
